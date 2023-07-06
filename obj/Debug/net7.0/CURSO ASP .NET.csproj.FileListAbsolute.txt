@@ -1,0 +1,40 @@
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\appsettings.json
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\CURSO ASP .NET.exe
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\CURSO ASP .NET.deps.json
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\CURSO ASP .NET.runtimeconfig.json
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\CURSO ASP .NET.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\CURSO ASP .NET.pdb
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\CURSO ASP .NET.csproj.AssemblyReference.cache
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\CURSO ASP .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\CURSO ASP .NET.AssemblyInfoInputs.cache
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\CURSO ASP .NET.AssemblyInfo.cs
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\CURSO ASP .NET.csproj.CoreCompileInputs.cache
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\CURSO ASP .NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\CURSO ASP .NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\staticwebassets\msbuild.CURSO ASP .NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\staticwebassets\msbuild.build.CURSO ASP .NET.props
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CURSO ASP .NET.props
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CURSO ASP .NET.props
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\scopedcss\bundle\CURSO ASP .NET.styles.css
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\CURSO ASP .NET.csproj.CopyComplete
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\CURSO ASP .NET.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\refint\CURSO ASP .NET.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\CURSO ASP .NET.pdb
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\CURSO ASP .NET.genruntimeconfig.cache
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\obj\Debug\net7.0\ref\CURSO ASP .NET.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\Humanizer.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\BG-JOANA B\Desktop\C#\CURSO ASP .NET\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
