@@ -38,7 +38,7 @@ namespace CURSO_ASP_.NET.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("pessoa");
+                    b.ToTable("user");
                 });
 #pragma warning restore 612, 618
         }

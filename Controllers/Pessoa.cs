@@ -66,8 +66,8 @@ namespace CURSO_ASP_.NET.Controllers
         public async Task<IActionResult> DeleteUser(Guid id)
         {
             if (_context.pessoa == null) {
-                object messageNotFound = "User not found!";
-                return NotFound(messageNotFound);
+                object message = "User not found!";
+                return NotFound(message);
             }
 
             var user = _context.pessoa.Where(c => c.Id == id).FirstOrDefault();
@@ -85,6 +85,8 @@ namespace CURSO_ASP_.NET.Controllers
             object messageDelete = "User deleted successfully";
             return StatusCode(204, messageDelete);
         }
+
+
 
         // Verify if user exists
         private bool UserExists(Guid id)

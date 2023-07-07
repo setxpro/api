@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CURSO_ASP_.NET.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20230706192557_PrimeiraMigration")]
-    partial class PrimeiraMigration
+    [Migration("20230707000918_UserMigration")]
+    partial class UserMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -40,7 +40,7 @@ namespace CURSO_ASP_.NET.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("pessoa");
+                    b.ToTable("user");
                 });
 #pragma warning restore 612, 618
         }
